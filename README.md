@@ -6,13 +6,13 @@
 
 ## 👋 Professional Introduction
 
-I'm a passionate AI & Data Science engineer focused on building intelligent systems, leveraging machine learning models and scalable data pipelines. I enjoy exploring the intersection of AI research and practical engineering solutions.
+I'm an AI & Data Science engineer focused on building intelligent systems, leveraging machine learning models and scalable data pipelines. I enjoy exploring the intersection of AI research and practical engineering solutions.
 
 **🔭 Currently working on:** ML model serving, AI benchmarking tools, and data infrastructure.
 
 **💻 Tech Stack:** Python, TypeScript, PyTorch, TensorFlow, FastAPI, React.
 
-**📫 How to reach me:** GitHub | LinkedIn | Email
+**📫 How to reach me:** [GitHub](https://github.com/starter-coder-123) · [LinkedIn](https://www.linkedin.com/in/m-prajwal-0b5064329/) · Email
 
 ---
 
@@ -20,19 +20,19 @@ I'm a passionate AI & Data Science engineer focused on building intelligent syst
 
 <p align="center">
   <a href="https://github.com/starter-coder-123">
-    <img src="https://github-readme-stats.vercel.app/api?username=starter-coder-123&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats - starter-coder-123" />
+    <img src="https://github-readme-stats.vercel.app/api?username=starter-coder-123&show_icons=true&theme=tokyonight&count_private=false&include_all_commits=true&hide_rank=true" alt="GitHub Stats - starter-coder-123" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/starter-coder-123">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starter-coder-123&layout=horizontal&theme=tokyonight&hide_rank=true" alt="Top Languages - starter-coder-123" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starter-coder-123&layout=compact&theme=tokyonight&hide_rank=true" alt="Top Languages - starter-coder-123" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/starter-coder-123">
-    <img src="https://streakstats.readthedocs.org/en/latest/badge?user=starter-coder-123&theme=tokyonight" alt="GitHub Streak - starter-coder-123" />
+    <img src="https://streak-stats.demolab.com/?user=starter-coder-123&theme=tokyonight" alt="GitHub Streak - starter-coder-123" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@ I'm a passionate AI & Data Science engineer focused on building intelligent syst
 
 <p align="center">
   <a href="https://github.com/starter-coder-123">
-    <img src="https://github.com/starter-coder-123.png?theme=tokyonight" alt="GitHub Contribution Graph - starter-coder-123" />
+    <img src="https://github.pumbas.net/api/contributions/starter-coder-123" alt="GitHub Contribution Graph - starter-coder-123" />
   </a>
 </p>
 
@@ -52,58 +52,60 @@ I'm a passionate AI & Data Science engineer focused on building intelligent syst
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts" alt="Programming Languages: Python, Java, JavaScript, TypeScript" />
 </p>
 
-### AI/ML
+### Artificial Intelligence & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI/ML" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI/ML: PyTorch, TensorFlow, Scikit-learn" />
 </p>
 
 ### Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" alt="Data Science" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" alt="Data Science: Pandas, NumPy, Matplotlib" />
 </p>
 
-### Backend
+### Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express" alt="Backend: Node.js, FastAPI, Express" />
 </p>
 
-### Frontend
+### Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,htmlcss" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend: React, HTML, CSS" />
 </p>
 
-### Database
+### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb firebase" alt="Database" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Databases: MySQL, MongoDB, Firebase" />
 </p>
 
 ### DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,jenkins,github-actions,docker" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,jenkins,githubactions,docker" alt="DevOps: Kubernetes, Jenkins, GitHub Actions, Docker" />
 </p>
 
 ### Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws googlecloud firebase" alt="Cloud" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase" alt="Cloud: AWS, Google Cloud Platform, Firebase" />
 </p>
 
 ### AI Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ollama huggingface" alt="AI Tools" />
+  <img src="https://skillicons.dev/icons?i=ollama,huggingface" alt="AI Tools: Ollama, Hugging Face" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚧 Featured Projects
 
-### [Local LLM Benchmark](https://github.com/starter-coder-123/local-llm-benchmark)
-A comprehensive benchmarking suite for local large language model inference performance, including latency, throughput, and resource utilization analysis.
+### [Local LLM Benchmark](https://github.com/starter-coder-123/local-llm-benchmark) 🚧 In Development
 
-### [CSV Clinic](https://github.com/starter-coder-123/csv-clinic)
-A data cleaning and preprocessing tool for CSV datasets, featuring automatic type detection, missing value handling, and transformation pipelines.
+A comprehensive benchmarking suite for local large language model inference performance — latency, throughput, and resource utilization analysis.
+
+### [CSV Clinic](https://github.com/starter-coder-123/csv-clinic) 🚧 In Development
+
+A data cleaning and preprocessing tool for CSV datasets — automatic type detection, missing value handling, and transformation pipelines.
 
 ---
 
@@ -115,13 +117,13 @@ A data cleaning and preprocessing tool for CSV datasets, featuring automatic typ
 
 ---
 
-## 📫 Social Links
+## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starter-coder-123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-prajwal-0b5064329/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Prajwal_m_30)
-[![Email](https://img.shields.io/badge/Email-D14840?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwal30m@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starter-coder-123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-prajwal-0b5064329/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Prajwal_m_30)
+[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwal30m@gmail.com)
 
 ---
 
-*⚠️ Note: GitHub stats and contribution data are fetched from public GitHub APIs. badge services may occasionally be unavailable — the README remains fully readable without them.*
+*⚠️ Note: GitHub stats and contribution data are fetched from public APIs via external badge services. Services may occasionally be unavailable — the README remains fully readable without them.*
