@@ -223,6 +223,3 @@ A data cleaning and preprocessing tool for CSV datasets — automatic type detec
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Prajwal_m_30)
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwal30m@gmail.com)
 
----
-
-*⚠️ Note: GitHub stats and contribution data are fetched from public APIs via external badge services. Services may occasionally be unavailable — the README remains fully readable without them.*
