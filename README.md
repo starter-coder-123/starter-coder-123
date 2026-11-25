@@ -8,11 +8,11 @@
 
 I'm an AI & Data Science engineer focused on building intelligent systems, leveraging machine learning models and scalable data pipelines. I enjoy exploring the intersection of AI research and practical engineering solutions.
 
-**🔭 Currently working on:** ML model serving, AI benchmarking tools, and data infrastructure.
+**🔭 Currently exploring:** Local LLM benchmarking, AI engineering, Python development, and data engineering.
 
 **💻 Tech Stack:** Python, TypeScript, PyTorch, TensorFlow, FastAPI, React.
 
-**📫 How to reach me:** [GitHub](https://github.com/starter-coder-123) · [LinkedIn](https://www.linkedin.com/in/m-prajwal-0b5064329/) · Email
+**📫 How to reach me:** [GitHub](https://github.com/starter-coder-123) · [LinkedIn](https://www.linkedin.com/in/m-prajwal-0b5064329/) · [Email](mailto:prajwal30m@gmail.com)
 
 ---
 
@@ -20,7 +20,7 @@ I'm an AI & Data Science engineer focused on building intelligent systems, lever
 
 <p align="center">
   <a href="https://github.com/starter-coder-123">
-    <img src="https://github-readme-stats.vercel.app/api?username=starter-coder-123&show_icons=true&theme=tokyonight&count_private=false&include_all_commits=true&hide_rank=true" alt="GitHub Stats - starter-coder-123" />
+    <img src="https://github-readme-stats.vercel.app/api?username=starter-coder-123&show_icons=true&theme=tokyonight&count_private=false&hide_rank=true" alt="GitHub Stats - starter-coder-123" />
   </a>
 </p>
 
