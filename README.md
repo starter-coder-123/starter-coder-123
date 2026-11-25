@@ -118,9 +118,9 @@ A data cleaning and preprocessing tool for CSV datasets, featuring automatic typ
 ## 📫 Social Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starter-coder-123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/starter-coder-123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-prajwal-0b5064329/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/starter_coder)
-[![Email](https://img.shields.io/badge/Email-D14840?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14840?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwal30m@gmail.com)
 
 ---
 
