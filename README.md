@@ -62,7 +62,7 @@ I'm a passionate AI & Data Science engineer focused on building intelligent syst
 
 ### Data Science
 <p align="center">
-  <img src="https:://skillicons.dev/icons?i=pandas,numpy,matplotlib" alt="Data Science" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" alt="Data Science" />
 </p>
 
 ### Backend
@@ -72,27 +72,27 @@ I'm a passionate AI & Data Science engineer focused on building intelligent syst
 
 ### Frontend
 <p align="center">
-  <img src="https:://skillicons.dev/icons?i=react,htmlcss" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,htmlcss" alt="Frontend" />
 </p>
 
 ### Database
 <p align="center">
-  <img src="https:://skillicons.dev/icons?i=mysql,mongodb firebase" alt="Database" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb firebase" alt="Database" />
 </p>
 
 ### DevOps
 <p align="center">
-  <img src="https:://skillicons.dev/icons?i=kubernetes,jenkins,github-actions,docker" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,jenkins,github-actions,docker" alt="DevOps" />
 </p>
 
 ### Cloud
 <p align="center">
-  <img src="https:://skillicons.dev/icons?i=aws googlecloud firebase" alt="Cloud" />
+  <img src="https://skillicons.dev/icons?i=aws googlecloud firebase" alt="Cloud" />
 </p>
 
 ### AI Tools
 <p align="center">
-  <img src="https:://skillicons.dev/icons?i=ollama huggingface" alt="AI Tools" />
+  <img src="https://skillicons.dev/icons?i=ollama huggingface" alt="AI Tools" />
 </p>
 
 ---
