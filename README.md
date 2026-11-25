@@ -51,148 +51,72 @@ I'm an AI & Data Science engineer focused on building intelligent systems, lever
 ## 💻 My Favorite Tools and Technologies
 
 <table align="center" cellpadding="8" cellspacing="0" border="1" style="border-color:#24292f;border-collapse:collapse;background:#0d1117">
-<tr><td colspan="4" align="center" bgcolor="#161b22"><b>Programming Languages</b></td></tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/python/python-original.svg" width="44" height="44" alt="Python"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/java/java-original.svg" width="44" height="44" alt="Java"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/python/python-original.svg" width="44" height="44" alt="Python"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Python</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/java/java-original.svg" width="44" height="44" alt="Java"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Java</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">JavaScript</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">TypeScript</span></td>
 </tr>
 <tr>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Python</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Java</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">JavaScript</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">TypeScript</td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/csharp/csharp-original.svg" width="44" height="44" alt="C#"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/csharp/csharp-original.svg" width="44" height="44" alt="C#"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">C#</span></td>
 <td align="center"></td><td align="center"></td><td align="center"></td>
 </tr>
-<tr><td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">C#</td><td align="center"></td><td align="center"></td><td align="center"></td></tr>
-
-<tr><td colspan="4" align="center" bgcolor="#161b22"><b>Artificial Intelligence &amp; Machine Learning</b></td></tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/pytorch/pytorch-original.svg" width="44" height="44" alt="PyTorch"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="TensorFlow"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="44" height="44" alt="Scikit-learn"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/huggingface/huggingface-original-wordmark.svg" width="44" height="44" alt="Hugging Face"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/pytorch/pytorch-original.svg" width="44" height="44" alt="PyTorch"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">PyTorch</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="TensorFlow"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">TensorFlow</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="44" height="44" alt="Scikit-learn"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Scikit-learn</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/huggingface/huggingface-original-wordmark.svg" width="44" height="44" alt="Hugging Face"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Hugging Face</span></td>
 </tr>
 <tr>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">PyTorch</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">TensorFlow</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Scikit-learn</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Hugging Face</td>
-</tr>
-
-<tr><td colspan="4" align="center" bgcolor="#161b22"><b>Data Science</b></td></tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/pandas/pandas-original.svg" width="44" height="44" alt="Pandas"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/numpy/numpy-original.svg" width="44" height="44" alt="NumPy"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="44" height="44" alt="Matplotlib"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/opencv/opencv-original.svg" width="44" height="44" alt="OpenCV"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/pandas/pandas-original.svg" width="44" height="44" alt="Pandas"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Pandas</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/numpy/numpy-original.svg" width="44" height="44" alt="NumPy"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">NumPy</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="44" height="44" alt="Matplotlib"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Matplotlib</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/opencv/opencv-original.svg" width="44" height="44" alt="OpenCV"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">OpenCV</span></td>
 </tr>
 <tr>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Pandas</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">NumPy</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Matplotlib</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">OpenCV</td>
-</tr>
-
-<tr><td colspan="4" align="center" bgcolor="#161b22"><b>Backend Development</b></td></tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/express/express-original.svg" width="44" height="44" alt="Express"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Node.js</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">FastAPI</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/express/express-original.svg" width="44" height="44" alt="Express"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Express</span></td>
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Node.js</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">FastAPI</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Express</td>
-<td align="center"></td>
-</tr>
-
-<tr><td colspan="4" align="center" bgcolor="#161b22"><b>Frontend Development</b></td></tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/react/react-original.svg" width="44" height="44" alt="React"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/react/react-original.svg" width="44" height="44" alt="React"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">React</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">HTML5</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">CSS3</span></td>
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">React</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">HTML5</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">CSS3</td>
-<td align="center"></td>
-</tr>
-
-<tr><td colspan="4" align="center" bgcolor="#161b22"><b>Databases</b></td></tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/firebase/firebase-original.svg" width="44" height="44" alt="Firebase"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">MySQL</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">MongoDB</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/firebase/firebase-original.svg" width="44" height="44" alt="Firebase"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Firebase</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">PostgreSQL</span></td>
 </tr>
 <tr>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">MySQL</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">MongoDB</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Firebase</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">PostgreSQL</td>
-</tr>
-
-<tr><td colspan="4" align="center" bgcolor="#161b22"><b>DevOps</b></td></tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/github/github-original.svg" width="44" height="44" alt="GitHub"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/docker/docker-original.svg" width="44" height="44" alt="Docker"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="44" height="44" alt="Kubernetes"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Git</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/github/github-original.svg" width="44" height="44" alt="GitHub"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">GitHub</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/docker/docker-original.svg" width="44" height="44" alt="Docker"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Docker</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="44" height="44" alt="Kubernetes"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Kubernetes</span></td>
 </tr>
 <tr>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Git</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">GitHub</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Docker</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Kubernetes</td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/jenkins/jenkins-original.svg" width="44" height="44" alt="Jenkins"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/jenkins/jenkins-original.svg" width="44" height="44" alt="Jenkins"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Jenkins</span></td>
 <td align="center"></td><td align="center"></td><td align="center"></td>
 </tr>
-<tr><td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Jenkins</td><td align="center"></td><td align="center"></td><td align="center"></td></tr>
-
-<tr><td colspan="4" align="center" bgcolor="#161b22"><b>Cloud</b></td></tr>
 <tr>
-<td align="center"><img src="https://img.icons8.com/color/96/amazon-web-services--v1.png" width="44" height="44" alt="AWS"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="44" height="44" alt="Google Cloud Platform"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/firebase/firebase-original.svg" width="44" height="44" alt="Firebase"></td>
+<td align="center"><img src="https://img.icons8.com/color/96/amazon-web-services--v1.png" width="44" height="44" alt="AWS"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">AWS</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="44" height="44" alt="Google Cloud Platform"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">GCP</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/firebase/firebase-original.svg" width="44" height="44" alt="Firebase"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Firebase</span></td>
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">AWS</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">GCP</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Firebase</td>
-<td align="center"></td>
-</tr>
-
-<tr><td colspan="4" align="center" bgcolor="#161b22"><b>Development</b></td></tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/vscode/vscode-original.svg" width="44" height="44" alt="VS Code"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/linux/linux-original.svg" width="44" height="44" alt="Linux"></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/powershell/powershell-original.svg" width="44" height="44" alt="PowerShell"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/vscode/vscode-original.svg" width="44" height="44" alt="VS Code"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">VS Code</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/linux/linux-original.svg" width="44" height="44" alt="Linux"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Linux</span></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/powershell/powershell-original.svg" width="44" height="44" alt="PowerShell"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">PowerShell</span></td>
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">VS Code</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Linux</td>
-<td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">PowerShell</td>
-<td align="center"></td>
-</tr>
-
-<tr><td colspan="4" align="center" bgcolor="#161b22"><b>AI Tools</b></td></tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/ollama/ollama-original.svg" width="44" height="44" alt="Ollama"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/ollama/ollama-original.svg" width="44" height="44" alt="Ollama"><br><span style="color:#c0caf5;font-size:13px;font-family:sans-serif">Ollama</span></td>
 <td align="center"></td><td align="center"></td><td align="center"></td>
 </tr>
-<tr><td align="center" style="color:#c0caf5;font-size:13px;font-family:sans-serif">Ollama</td><td align="center"></td><td align="center"></td><td align="center"></td></tr>
 </table>
 
 ---
